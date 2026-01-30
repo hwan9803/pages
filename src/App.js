@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="App">π
       <header className="App-header" style={{height:'20vh'}}>
         <p>
           안녕하세요!
