@@ -2,12 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+<<<<<<< HEAD
 import Footer from './common/Footer'
+=======
+>>>>>>> parent of 30846d8 (Updates)
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+<<<<<<< HEAD
     <div style={{
       diplay: 'flex',
       flexDirection: 'column',
@@ -21,6 +25,9 @@ root.render(
         marginBottom: '0'
       }}/>
     </div>
+=======
+    <App />
+>>>>>>> parent of 30846d8 (Updates)
   </React.StrictMode>
 );
 

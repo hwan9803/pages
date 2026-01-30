@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+<<<<<<< HEAD
 
 const App = () => {
   return (
@@ -44,6 +45,16 @@ const App = () => {
           아직 개발중인 페이지 입니다
         </div>
       </div>
+=======
+const App = () => {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <p>
+          hwan 블로그 페이지 입니다.
+        </p>
+      </header>
+>>>>>>> parent of 30846d8 (Updates)
     </div>
   );
 }
