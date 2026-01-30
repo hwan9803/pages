@@ -8,7 +8,7 @@ const App = () => {
         <p>
           안녕하세요!
           <br />
-          개발자 hwan의 github pages 입니다.
+          개발자 hwan의 Github Pages 입니다.
         </p>
         <div style={{
           position: 'absolute',
